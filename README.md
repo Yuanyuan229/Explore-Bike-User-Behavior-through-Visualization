@@ -7,8 +7,15 @@ This visualization is intended to explore the user behavior patterns, draw some 
 In this visualization, the audience can first discover about the user route pattern through a video played. Then, a more clear and detailed presentation about the user profile, the station locations and user behavior pattern (trip profile) information (gender, age, and ...) will be presented. After presenting these visualizations, an conclusion comes to warp up and re-emphasize the key takeaways that the viewers are expected to leave with. 
 
 ## Slides
+[Google Slide Link >>>](https://docs.google.com/presentation/d/1UAKWnpwJTZLgL8yOhoF2A6--zn3kOHTT9NO61idijaY/edit?usp=sharing)
 
-
+![1](Slide1.png)
+![2](Slide2.png)
+![3](Slide3.png)
+![4](Slide4.png)
+![5](Slide5.png)
+![6](Slide6.png)
+![7](Slide7.png)
 
 ## Techniques employed:
 
